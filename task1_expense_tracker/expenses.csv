@@ -1,0 +1,11 @@
+id,amount,category,description,date
+1,250.00,Food,Lunch,2026-09-01
+2,120.00,Travel,Bus,2026-09-02
+3,500.00,Shopping,Clothes,2026-09-03
+4,80.00,Food,Breakfast,2026-09-04
+5,1500.00,Education,Python Course,2026-09-05
+6,200.00,Travel,Auto,2026-09-06
+7,300.00,Food,Dinner,2026-09-10
+8,750.00,Shopping,Shoes,2026-09-13
+9,200.00,Entertainment,Movie,2026-09-17
+10,400.00,Food,Groceries,2026-09-20

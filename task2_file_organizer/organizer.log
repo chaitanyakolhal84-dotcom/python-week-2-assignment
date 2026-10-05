@@ -1,0 +1,33 @@
+2026-10-05 10:48:06,127 - INFO - [DRY RUN] document.pdf -> test_files\Documents\document.pdf
+2026-10-05 10:48:06,127 - INFO - [DRY RUN] notes.txt -> test_files\Documents\notes.txt
+2026-10-05 10:48:06,128 - INFO - [DRY RUN] photo.jpg -> test_files\Images\photo.jpg
+2026-10-05 10:48:06,128 - INFO - [DRY RUN] photo_1.jpg -> test_files\Images\photo_1.jpg
+2026-10-05 10:48:06,129 - INFO - [DRY RUN] program.py -> test_files\Code\program.py
+2026-10-05 10:48:06,130 - INFO - [DRY RUN] song.mp3 -> test_files\Music\song.mp3
+2026-10-05 10:48:06,131 - INFO - [DRY RUN] unknown.xyz -> test_files\Others\unknown.xyz
+2026-10-05 10:48:06,133 - INFO - [DRY RUN] video.mp4 -> test_files\Videos\video.mp4
+2026-10-05 10:48:43,774 - INFO - Moved: test_files\document.pdf -> test_files\Documents\document.pdf
+2026-10-05 10:48:43,775 - INFO - Moved: test_files\notes.txt -> test_files\Documents\notes.txt
+2026-10-05 10:48:43,775 - INFO - Moved: test_files\photo.jpg -> test_files\Images\photo.jpg
+2026-10-05 10:48:43,776 - INFO - Moved: test_files\photo_1.jpg -> test_files\Images\photo_1.jpg
+2026-10-05 10:48:43,777 - INFO - Moved: test_files\program.py -> test_files\Code\program.py
+2026-10-05 10:48:43,778 - INFO - Moved: test_files\song.mp3 -> test_files\Music\song.mp3
+2026-10-05 10:48:43,779 - INFO - Moved: test_files\unknown.xyz -> test_files\Others\unknown.xyz
+2026-10-05 10:48:43,779 - INFO - Moved: test_files\video.mp4 -> test_files\Videos\video.mp4
+2026-10-05 10:52:15,641 - INFO - [DRY RUN] document.pdf -> test_files\Documents\document.pdf
+2026-10-05 10:52:15,642 - INFO - [DRY RUN] notes.txt -> test_files\Documents\notes.txt
+2026-10-05 10:52:15,642 - INFO - [DRY RUN] photo.jpg -> test_files\Images\photo.jpg
+2026-10-05 10:52:15,642 - INFO - [DRY RUN] photo_1.jpg -> test_files\Images\photo_1.jpg
+2026-10-05 10:52:15,642 - INFO - [DRY RUN] program.py -> test_files\Code\program.py
+2026-10-05 10:52:15,642 - INFO - [DRY RUN] song.mp3 -> test_files\Music\song.mp3
+2026-10-05 10:52:15,643 - INFO - [DRY RUN] unknown.xyz -> test_files\Others\unknown.xyz
+2026-10-05 10:52:15,643 - INFO - [DRY RUN] video.mp4 -> test_files\Videos\video.mp4
+2026-10-05 10:52:55,911 - INFO - Moved: test_files\document.pdf -> test_files\Documents\document.pdf
+2026-10-05 10:52:55,911 - INFO - Moved: test_files\notes.txt -> test_files\Documents\notes.txt
+2026-10-05 10:52:55,912 - INFO - Moved: test_files\photo.jpg -> test_files\Images\photo.jpg
+2026-10-05 10:52:55,913 - INFO - Moved: test_files\photo_1.jpg -> test_files\Images\photo_1.jpg
+2026-10-05 10:52:55,914 - INFO - Moved: test_files\program.py -> test_files\Code\program.py
+2026-10-05 10:52:55,914 - INFO - Moved: test_files\song.mp3 -> test_files\Music\song.mp3
+2026-10-05 10:52:55,915 - INFO - Moved: test_files\unknown.xyz -> test_files\Others\unknown.xyz
+2026-10-05 10:52:55,916 - INFO - Moved: test_files\video.mp4 -> test_files\Videos\video.mp4
+2026-10-05 10:55:27,960 - INFO - Moved: test_files\photo.jpg -> test_files\Images\photo_2.jpg
